@@ -13,7 +13,7 @@
 
 # CoE-BIRD, IIT Delhi
 
-Official GitHub organization for the Centre of Excellence for Bi-Inspired Robotics and Drones (CoE-BIRD), IIT Delhi.
+Official GitHub organization for the Centre of Excellence on Bi-Inspired Robotics and Drones (CoE-BIRD), IIT Delhi.
 
 ---
 
