@@ -38,9 +38,6 @@ This organization hosts:
 - M.Tech project repositories
 - B.Tech final year projects
 - Research prototypes
-- Open-source robotics software
-- Simulation environments
-- Hardware design repositories
 
 ---
 
